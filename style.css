@@ -13,6 +13,8 @@
 body {
   background-image: url(assets/bg-image.png);
   background-size: cover;
+
+  background-color: #573824;
 }
 
 #page {
@@ -58,6 +60,18 @@ h1, h2 {
 
 img {
   border-radius: 16px;
+}
+
+ul {
+  padding-left: 24px;
+  font-size: 16px;
+}
+
+footer {
+  text-align: center;
+  padding-bottom: 48px;
+  
+  color: #F0E8C2;
 }
 
 
